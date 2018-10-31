@@ -11,6 +11,32 @@
   Text Domain:  twenty-fifteen-child
 */
 
-h1 {
-  color: rgba(0,0,0,0.7);
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1280px;
+  margin: 16px auto;
+}
+
+.header__title {
+  
+}
+
+.header__nav {
+  display: flex;
+  align-items: center;
+}
+
+.header__button {
+  display: inline-block;
+  margin-left: 64px;
+  background-color: #EF6F4C;
+  color: #FFF;
+  padding: 16px;
+  min-width: 272px;
+  font-size: 20px;
+  border-color: transparent;
+  outline: none;
 }

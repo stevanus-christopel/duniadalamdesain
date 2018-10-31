@@ -31,3 +31,18 @@
 </head>
 
 <body>
+
+	<header class="header">
+		<h1 class="header__title">Dunia Dalam Desain</h1>
+		<div class="header__nav">
+			<nav>
+				<a href="#">Home</a>
+				<a href="#">Menu</a>
+				<a href="#">Menu</a>
+				<a href="#">Menu</a>
+			</nav>
+			<button class="header__button">
+				Subscribe to DDD
+			</button>
+		</div>
+	</header>

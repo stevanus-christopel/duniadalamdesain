@@ -1,5 +1,7 @@
 <?php get_header(); ?>
 
-<h1>DDD - Dunia Dalam Desain</h1>
+<div class="content">
+  
+</div>
 
 <?php get_footer(); ?>
